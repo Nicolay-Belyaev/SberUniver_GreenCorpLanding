@@ -95,6 +95,36 @@ button {
     align-items: center;
 }
 
+.form label {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+
+.form input {
+    font-size: 18px;
+    color: 213053;
+    height: 20px;
+    padding: 20px 0 20px 20px;
+    border-radius: 15px;
+    border: none;
+}
+
+.form select {
+    font-size: 18px;
+    color: 213053;
+    height: 60px;
+    padding: 20px 0 20px 20px;
+    border-radius: 15px;
+    border: none;
+}
+
+.form__submit {
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 40px;
+}
+
 .form h1 {
     font-size: 48px;
 }
